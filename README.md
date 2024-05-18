@@ -1,1 +1,2 @@
-# Simple-Ca
+# Simple-Calculator cli
+
